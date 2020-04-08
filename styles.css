@@ -209,6 +209,7 @@ body {
     min-height: 413px;
     margin: 5vh auto;
     position: relative; /* children absolute inside parent relative */
+    margin-top: 150px;
     border-radius: 16px;
 
 }
